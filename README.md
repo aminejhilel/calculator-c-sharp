@@ -1,4 +1,5 @@
 # 🧮 Calculator C#
+---
 
 A simple calculator application developed using **C#**. This project helps beginners practice basic programming concepts and arithmetic operations.
 
